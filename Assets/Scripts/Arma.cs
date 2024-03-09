@@ -10,7 +10,7 @@ namespace Cours.ControlDeVeriones
 
         private void Start()
         {
-            title = "Rifle";
+            title = "Sword";
         }
     }
 }
