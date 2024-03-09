@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08d26ba91ca04b845afe726267cf5853, type: 3}
+  m_Name: Lechero 5.0
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 2898347f21cf5ae4a81aae5bab8e3d23, type: 3}
+  weaponName: Lechero 5.0
+  ammo: 40
+  price: 720
+  type: 1

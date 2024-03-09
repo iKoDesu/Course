@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd9c85b538ec7844f805e04203c0a979, type: 3}
+  m_Name: Demian
+  m_EditorClassIdentifier: 
+  enemyName: Demian
+  type: 1
+  element: 1
+  debility: 2
+  heal: 500
+  damage: 10
+  model: {fileID: 1746487477772876, guid: b5d4c07da841dd144bdf28adb111286b, type: 3}
